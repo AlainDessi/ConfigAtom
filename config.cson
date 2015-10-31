@@ -1,0 +1,18 @@
+"*":
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    preferredLineLength: 196
+    autoIndentOnPaste: false
+    fontFamily: "Droid sans mono"
+    fontSize: 13
+  core: {}
+  "exception-reporting":
+    userId: "724e9e0e-dd76-982f-7b1f-8b30107ff6dd"
+  welcome:
+    showOnStartup: false
+  "one-dark-ui":
+    layoutMode: "Compact"
+".html.php.text":
+  editor:
+    preferredLineLength: 196
